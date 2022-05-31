@@ -1,7 +1,6 @@
 // PlayerList.js
 
 import React from "react"; //optional
-// import matchData from '../data/matchData';
 import Match from "./match";
 
 function MatchList(props) {
